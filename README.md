@@ -11,4 +11,4 @@ The importance of these features indicates that improvements in these areas coul
 
 The [Tableau Dashboard](https://public.tableau.com/app/profile/yonas.tena/viz/QatarAirwaysCustomerReviews/Dashboard1) show how the airline fare in each metric.
 
-![screenshot](screenshot_sas.png)
+![screenshot](Screenshot_sas.png)
